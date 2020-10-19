@@ -61,6 +61,7 @@
     "p-limit": "^3.0.2",
     "promise-queue": "^2.2.5",
     "replaceall": "^0.1.6",
+    "semaphore-async-await": "^1.5.1",
     "semver": "^7.3.2",
     "stream-promise": "^3.2.0",
     "tabtab": "^3.0.2",
